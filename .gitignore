@@ -1,0 +1,5 @@
+tests
+setup.cfg
+pytest.ini
+pyproject.toml
+.pre-commit-config.yaml
