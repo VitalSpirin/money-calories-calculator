@@ -1,6 +1,7 @@
 tests
 setup.cfg
 pytest.ini
+__pycache__
 .mypy_cache
 pyproject.toml
 .pre-commit-config.yaml
